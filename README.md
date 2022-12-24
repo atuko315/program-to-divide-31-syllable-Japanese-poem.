@@ -1,7 +1,7 @@
 # program-to-divide-31-syllable-Japanese-poem.
 和歌を５７５７７に区分けし、句切れを見つけます。
 
-google colab での動作を想定しております。MyDriveの下にnaturalというフォルダを作成し、入力データを入れてください。
+google colab での動作を想定しております。MyDriveの下にnaturalというフォルダを作成し、入力データ(kokin.csvなど）を入れてください。
 
 前半のコードで５７５７７への区分けを行っております。結果として７割ほどの精度となりました。
 
